@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JasminTazli/pokemonapp/static/css/main.1be02f9b.css",
+    "main.js": "/JasminTazli/pokemonapp/static/js/main.9aa15f13.js",
+    "index.html": "/JasminTazli/pokemonapp/index.html",
+    "main.1be02f9b.css.map": "/JasminTazli/pokemonapp/static/css/main.1be02f9b.css.map",
+    "main.9aa15f13.js.map": "/JasminTazli/pokemonapp/static/js/main.9aa15f13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1be02f9b.css",
+    "static/js/main.9aa15f13.js"
+  ]
+}
